@@ -47,7 +47,4 @@ In the third iteration, the contact tracer polls 1 from the infection queue, cre
 
 In the fourth iteration, the contact tracer polls 4 from the infection queue, and creates a MaxRankTree from it. It decides to disconnect 5 from the graph, as it has the maximal rank. Then, the virus infects 5, but it cannot spread itself any further. The program now terminates, as the termination conditions are satisfied. Each connected component is either fully infected, or doesn't have a virus in it.
 
-<img src="images/Pic_6.png" width="250" height="250" >
-
-  
-  
+<img src="images/Pic_6.png" width="250" height="250" > 
